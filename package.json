@@ -1,0 +1,25 @@
+{
+  "name": "drossel-webstorage",
+  "version": "1.0.0",
+  "description": "Unneccesary web storage utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanocloudx/drossel-webstorage.git"
+  },
+  "keywords": [
+    "storage",
+    "webstorage",
+    "localStorage",
+    "sessionStorage"
+  ],
+  "author": "nanocloudx <nanocloudx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanocloudx/drossel-webstorage/issues"
+  },
+  "homepage": "http://drossel.io/"
+}
