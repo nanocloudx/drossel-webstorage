@@ -1,5 +1,5 @@
 # drossel-webstorage
-Unneccesary web storage wrapper.
+Unneccesary web storage utility.
 
 [![NPM](https://nodei.co/npm/drossel-webstorage.png)](https://nodei.co/npm/drossel-webstorage/)
 
